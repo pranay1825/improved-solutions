@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pranay1825/improved-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+## Math
+|  |
+| ------- |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/pranay1825/improved-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
+## Simulation
+|  |
+| ------- |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/pranay1825/improved-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 <!---LeetCode Topics End-->
