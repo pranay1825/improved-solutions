@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pranay1825/improved-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/pranay1825/improved-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Simulation
 |  |
