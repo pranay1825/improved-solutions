@@ -31,4 +31,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pranay1825/improved-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+## String
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/pranay1825/improved-solutions/tree/master/0032-longest-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/pranay1825/improved-solutions/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/pranay1825/improved-solutions/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/pranay1825/improved-solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
