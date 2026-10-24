@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/pranay1825/improved-solutions/tree/master/0263-ugly-number) |
+| [2409-count-days-spent-together](https://github.com/pranay1825/improved-solutions/tree/master/2409-count-days-spent-together) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pranay1825/improved-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/pranay1825/improved-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Simulation
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pranay1825/improved-solutions/tree/master/0032-longest-valid-parentheses) |
+| [2409-count-days-spent-together](https://github.com/pranay1825/improved-solutions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/pranay1825/improved-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
