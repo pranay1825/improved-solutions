@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/pranay1825/improved-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pranay1825/improved-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2465-number-of-distinct-averages](https://github.com/pranay1825/improved-solutions/tree/master/2465-number-of-distinct-averages) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pranay1825/improved-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pranay1825/improved-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0300-longest-increasing-subsequence](https://github.com/pranay1825/improved-solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -65,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2465-number-of-distinct-averages](https://github.com/pranay1825/improved-solutions/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/pranay1825/improved-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/pranay1825/improved-solutions/tree/master/0300-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/pranay1825/improved-solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
